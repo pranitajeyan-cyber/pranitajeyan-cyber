@@ -1,18 +1,13 @@
-# 👋 Hello, I'm Pranita Jeyan
+# Pranita Jeyan
 
-**M.Tech CSE** | Exploring AI, Systems, and Software Engineering
+**M.Tech CSE** | Building things, learning in public
 
----
+## Featured Project
 
-### 🔭 Currently
-- 1st year M.Tech in Computer Science & Engineering
-- Building my foundation across AI/ML, systems, and full-stack
+[**RAG Chat with Your Notes**](https://github.com/pranitajeyan-cyber/rag-chat-notes) — Chat with your study documents. Upload PDFs/TXT, ask questions, AI answers using only your content.
 
-### 🛠️ Tech Stack
-Python C++ Java JavaScript Git Linux
+## Tech Stack
+Python C++ Java JavaScript Git Streamlit LangChain ChromaDB
 
-### 📌 Featured Projects
-Coming soon — each college lab and project gets polished and published here.
-
-### 📫 Connect
-[LinkedIn](https://linkedin.com/in/pranitajeyan) | [Portfolio](https://your-portfolio-link)
+## Main Repo
+[mtech-cse](https://github.com/pranitajeyan-cyber/mtech-cse) — Coursework, labs, research, and projects.
